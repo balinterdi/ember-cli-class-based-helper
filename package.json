@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-class-based-helper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds an Ember CLI generator for class-based helpers",
   "keywords": [
     "ember-addon"
